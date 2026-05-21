@@ -1,4 +1,11 @@
-﻿# Revisão Kotlin
+> **EN:** Basic Kotlin revision: Athlete class, terminal I/O, BMI calculation and categories. Includes short activity Q&A answers.
+>
+> *The rest of this README is in Brazilian Portuguese (pt-BR).*
+
+
+---
+
+# Revisão Kotlin
 
 Atividade bem básica de revisão em Kotlin: classe `Atleta`, entrada no terminal e cálculo de IMC com categoria.
 

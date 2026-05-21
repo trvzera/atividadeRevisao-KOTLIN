@@ -1,11 +1,20 @@
-﻿# atividadeRevisao-KOTLIN
-#Abaixo estão as respostas das questões propostas na atividade:
+﻿# Revisão Kotlin
 
-## 1. Questão 
-A função deveria estar dentro da classe
+Atividade bem básica de revisão em Kotlin: classe `Atleta`, entrada no terminal e cálculo de IMC com categoria.
 
-## 2. Questão
-Porque está somando + 0.1, e não multiplicando por 1.1
+## Em que consiste
 
-## 3. Questão
-Porque ela recebe um valor e precisa ser tratado na main, fora da classe, para depois entrar na classe.
+- Classe **`Atleta`** — `registrarNotas`, `calcularIMC` e `verificarCategoria`
+- **`main`** — lê nome, altura e peso e exibe o resultado no console
+
+Código em `src/Main.kt`.
+
+## Como executar
+
+Abra o projeto no IntelliJ IDEA e rode `Main.kt`, ou compile e execute pelo terminal com Kotlin configurado.
+
+## Respostas da atividade
+
+1. A função deveria estar dentro da classe.
+2. Porque está somando + 0.1, e não multiplicando por 1.1.
+3. Porque ela recebe um valor e precisa ser tratado na `main`, fora da classe, para depois entrar na classe.
